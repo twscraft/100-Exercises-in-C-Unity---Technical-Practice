@@ -174,7 +174,7 @@ En progreso: ![WIP](https://img.shields.io/badge/-WIP-EAB308?style=flat-square)
 
 ## Copyright
 
-© 2026 Alejandro Mendoza. All rights reserved.
+© 2026 Alejandro Mendoza Moreno ("twscraft"). All rights reserved.
 
 This repository is published publicly as a portfolio and educational record of my personal work.
 
