@@ -172,6 +172,18 @@ En progreso: ![WIP](https://img.shields.io/badge/-WIP-EAB308?style=flat-square)
 
 ---
 
+<div align="center">
+
+<h3 align="center">
+  "Is that all you can imagine?"
+</h3>
+
+<br>
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+
+---
+
 ## Copyright
 
 © 2026 Alejandro Mendoza Moreno ("twscraft"). All rights reserved.
