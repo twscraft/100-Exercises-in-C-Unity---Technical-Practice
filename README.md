@@ -175,7 +175,7 @@ En progreso: ![WIP](https://img.shields.io/badge/-WIP-EAB308?style=flat-square)
 <div align="center">
 
 <h3 align="center">
-  "Is that all you can imagine?"
+  Is that all you can imagine?
 </h3>
 
 <br>
