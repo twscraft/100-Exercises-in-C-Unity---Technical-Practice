@@ -190,7 +190,7 @@ En progreso: ![WIP](https://img.shields.io/badge/-WIP-EAB308?style=flat-square)
 
 This repository is published publicly as a portfolio and educational record of my personal work.
 
-The exercises are based on:  
-*100 ejercicios en C# para Unity: Cómo mejorar tu kungfú*.
+The exercises are based on the book:  
+García Colmenar, J. (2024). *100 ejercicios en C# para Unity: Cómo mejorar tu kungfú* (*C# para Unity. 100 ejercicios prácticos*). Ediciones de la U. ISBN: 978-958-792-715-3.
 
 The original book content, exercise statements, and related materials belong to their respective author and publisher.
