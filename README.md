@@ -58,7 +58,7 @@ For every exercise, I document:
 
 | # | Exercise Title | Status | Technical Report (LaTeX) |
 | :---: | :--- | :---: | :---: |
-| 001 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)] |
+| 001 | *Finished* | ![Done](https://img.shields.io/badge/-Done-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)] |
 | 002 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [ - ] |
 | 003 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [ - ] |
 
