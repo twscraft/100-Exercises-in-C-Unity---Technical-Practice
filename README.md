@@ -7,7 +7,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Development-EAB308?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Completed-1%20%2F%20100-2563EB?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-2%20%2F%20100-2563EB?style=for-the-badge)
 
 A personal technical practice project focused on strengthening my C# programming and Unity development skills through 100 progressively challenging exercises.
 
@@ -50,7 +50,7 @@ For every exercise, I document:
 
 ## Progress & Exercise Log
 
-![Progress](https://img.shields.io/badge/Completed-1%20%2F%20100-2563EB?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-2%20%2F%20100-2563EB?style=for-the-badge)
 
 <details>
 <summary><b>Click to expand the Exercise Index (1 - 100)</b></summary>
@@ -59,7 +59,8 @@ For every exercise, I document:
 | # | Exercise Title | Status | Technical Report (LaTeX) |
 | :---: | :--- | :---: | :---: |
 | 001 | Inicialización de variables y salida por consola | ![Done](https://img.shields.io/badge/-Done-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/32725892/P1-100.pdf) |
-| 002 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [ - ] |
+| 002 | Operaciones aritméticas básicas con variables públicas | ![Done](https://img.shields.io/badge/-Done-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/32812359/P2-100.pdf) |
+
 | 003 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [ - ] |
 
 <!--
