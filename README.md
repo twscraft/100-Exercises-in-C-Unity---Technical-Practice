@@ -17,6 +17,7 @@ Each exercise is independently implemented, tested, documented, and organized in
 
 ---
 
+
 ## About the Project
 
 This project is based on the book:  
