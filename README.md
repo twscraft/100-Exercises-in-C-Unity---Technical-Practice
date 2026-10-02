@@ -61,8 +61,8 @@ For every exercise, I document:
 | :---: | :--- | :---: | :---: |
 | 001 | Inicialización de variables y salida por consola | ![Done](https://img.shields.io/badge/-Done-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/32725892/P1-100.pdf) |
 | 002 | Operaciones aritméticas básicas con variables públicas | ![Done](https://img.shields.io/badge/-Done-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/32812359/P2-100.pdf) |
+| 003 | Concatenación de cadenas de texto privadas | ![Done](https://img.shields.io/badge/-Done-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/32945887/3-100_Book.pdf) |
 
-| 003 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [ - ] |
 
 <!--
 | 004 | *Pending* | ![Todo](https://img.shields.io/badge/-Todo-lightgrey?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)] |
