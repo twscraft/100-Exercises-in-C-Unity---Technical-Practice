@@ -85,16 +85,6 @@ En progreso: ![WIP](https://img.shields.io/badge/-WIP-EAB308?style=flat-square)
 
 <div align="center">
 
-<h3 align="center">
-  Is that all you can imagine?
-</h3>
-
-<br>
-
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
-
----
-
 ## Copyright
 
 © 2026 Alejandro Mendoza Moreno ("twscraft"). All rights reserved.
@@ -105,3 +95,15 @@ The exercises are based on the book:
 García Colmenar, J. (2024). *100 ejercicios en C# para Unity: Cómo mejorar tu kungfú* (*C# para Unity. 100 ejercicios prácticos*). Ediciones de la U. ISBN: 978-958-792-715-3.
 
 The original book content, exercise statements, and related materials belong to their respective author and publisher.
+
+---
+
+<div align="center">
+
+<h3 align="center">
+  Is that all you can imagine?
+</h3>
+
+<br>
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
